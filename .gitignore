@@ -182,3 +182,5 @@ dist/**/*
 # ignore yarn.lock
 yarn.lock
 
+#ignore vscode
+.vscode
